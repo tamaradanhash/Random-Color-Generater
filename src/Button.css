@@ -1,0 +1,14 @@
+.Button {
+  width: 157px;
+  height: 144px;
+}
+.Button-text {
+  width: 80px;
+  height: 14px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #af0909;
+}
