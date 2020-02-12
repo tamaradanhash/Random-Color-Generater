@@ -7,12 +7,11 @@ import randomColor from 'randomcolor';
 
 function App() {
   const [color, setColor] = useState(randomColor());
-  // const color = randomColor;
   return (
-    <div className="App">
+    <div className="Background">
       <Cover />
-      <Button onClickRandomColor={() => setColor(randomColor())} />
       <Box color={color} />
+      <Button onClickRandomColor={() => setColor(randomColor())} />
     </div>
   );
 }

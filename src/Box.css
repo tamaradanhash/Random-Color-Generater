@@ -1,6 +1,7 @@
 .Box {
   width: 505px;
   height: 263px;
+  text-align: center;
 
   background: #eaabf4;
 }

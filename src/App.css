@@ -1,6 +1,9 @@
 .Background {
-  width: 856px;
-  height: 868px;
+  grid-gap: 20px;
+  padding-left: 35%;
+  padding-right: 35%;
+  width: 443px;
+  height: 755px;
 
   background: #c4c4c4;
 }
